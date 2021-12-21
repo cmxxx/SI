@@ -2,8 +2,8 @@
 Visualiza where you are in the SI network, blue and yellow dots are patients without and with SI in our dataset.   
 ![alt text](figs/Unknown-20.png)
 
-Creat a gephi file using this line: nx.write_gexf(G, "test.gexf"). 
-Import "test.gexf" file into Gephi (this is a professional tool can be downloaded from https://gephi.org) and add class label to your nodes. After adding class label your data should look like this: 
+Creat a gephi file using this line: nx.write_gexf(G, "482.gexf"). 
+Import "482.gexf" file into Gephi (this is a professional tool can be downloaded from https://gephi.org) and add class label (labels_482.npy) to your nodes. After adding class label your data should look like this: 
 ![alt text](figs/data.png)
 
 In gephi work place, change node color according to class (SI/non-SI):   

@@ -1,5 +1,5 @@
 # SI
-Visualiza where you are in the SI network.   
+Visualiza where you are in the SI network, blue and yellow dots are patients without and with SI in our dataset.   
 ![alt text](figs/Unknown-20.png)
 
 Creat a gephi file using this line: nx.write_gexf(G, "test.gexf"). 
@@ -14,6 +14,6 @@ and change edge color accordding to weight:
 Then adjust network shape using "Force Atlas", "Label adjust" and "non overlap":  
 ![alt text](figs/shape.png)![alt text](figs/label_adjust.png). 
 
-Then expansion if needed. In preview, the network should look like this:  
+Then expansion if needed. In preview, the network should look like this (yellow and red dots are patients without and with SI in our dataset):  
 ![alt text](figs/network_preview.png)
 

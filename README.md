@@ -5,3 +5,5 @@ network_visualization_GNN.ipynb is the notebook for graph construction and SI pr
 
 ![alt text](figs/network_preview.png)
 
+Severity and imminence prediction models and results can be found in Severity_Imminence_regression.ipynb
+
